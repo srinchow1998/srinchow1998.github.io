@@ -18,7 +18,7 @@
 
   <!-- Custom meta tags -->
   <meta property='og:title' content='Srinivas Musinuri' />
-  <meta property="og:image" content="https://yourimageurl.com" />
+  <meta property="og:image" content="resources/srinivasmusinuri_image.jpeg" />
   <meta property='og:description'
     content='Hello, there! I am a .NET Full Stack Developer with 4+ years of experience building scalable applications for healthcare, finance, and cloud-based solutions. I specialize in ASP.NET Core, microservices, cloud technologies, and more.' />
 
@@ -70,7 +70,7 @@
         <a class="nav-link" href="#skills">Skills</a>
         <a class="nav-link" href="#projects">Projects</a>
         <a class="nav-link" href="#contact">Contact</a>
-        <a class="nav-link" href="Srinivas_Musinuri_Resume.pdf" target="_blank">Resume</a>
+        <a class="nav-link" href="resources/Srinivas Musinuri_Resume.pdf" target="_blank">Resume</a>
       </ul>
     </div>
   </nav>
