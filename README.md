@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 
 <head>
@@ -82,7 +81,6 @@
     <br>
     <div class="row">
       <div class="col-12 col-md-6 col-lg-4 media">
-          alt="Srinivas Musinuri">
       </div>
       <div class="col-12 col-md-6 col-lg-8 media-body">
         <h1 class="mt-0 text-center">Srinivas Musinuri</h1>
