@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 
@@ -16,11 +17,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Custome meta tages -->
-  <meta property='og:title' content='Darshak Mehta' />
-  <meta property="og:image" content="https://darshakmehta.github.io/resources/images/darshak-ogp.jpeg" />
+  <!-- Custom meta tags -->
+  <meta property='og:title' content='Srinivas Musinuri' />
+  <meta property="og:image" content="https://yourimageurl.com" />
   <meta property='og:description'
-    content='Hello, there! I am a Computer Science Graduate at The University of North Carolina at Charlotte. I have solid understanding of Agile, MVC design Pattern, REST Architecture, Relational and NoSQL databases.' />
+    content='Hello, there! I am a .NET Full Stack Developer with 4+ years of experience building scalable applications for healthcare, finance, and cloud-based solutions. I specialize in ASP.NET Core, microservices, cloud technologies, and more.' />
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="57x57" href="resources/images/favicon/apple-icon-57x57.png">
@@ -57,7 +58,7 @@
 
 <body>
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-    <span class="navbar-brand mb-0 h1">Darshak Mehta</span>
+    <span class="navbar-brand mb-0 h1">Srinivas Musinuri</span>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
       aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -70,7 +71,7 @@
         <a class="nav-link" href="#skills">Skills</a>
         <a class="nav-link" href="#projects">Projects</a>
         <a class="nav-link" href="#contact">Contact</a>
-        <a class="nav-link" href="Darshak_Mehta_Resume.pdf" target="_blank">Resume</a>
+        <a class="nav-link" href="Srinivas_Musinuri_Resume.pdf" target="_blank">Resume</a>
       </ul>
     </div>
   </nav>
@@ -81,24 +82,17 @@
     <br>
     <div class="row">
       <div class="col-12 col-md-6 col-lg-4 media">
-        <img class="align-self-center mr-3 my-img img-thumbnail img-responsive" src="resources/images/darshak-sm.jpeg"
-          alt="Darshak Mehta">
+          alt="Srinivas Musinuri">
       </div>
       <div class="col-12 col-md-6 col-lg-8 media-body">
-        <h1 class="mt-0 text-center">Darshak Mehta</h1>
+        <h1 class="mt-0 text-center">Srinivas Musinuri</h1>
         <p class="text-justify text-size">
           <span> <strong> Hello, there! </strong></span><br>
-          I am currently employed as a Senior Software Engineer at Optum Digital, based in San Francisco. 
-          My role primarily revolves around being a Front-end Developer, 
-          where my key focus is on meticulously crafting efficient and reusable components 
-          to significantly enhance the overall user login/registration experience. 
-          In addition to my professional experience, 
-          I hold a Master's degree in Computer Science from The University of North Carolina at Charlotte, 
-          a testament to my robust educational foundation and unwavering commitment to excellence in the field. 
-          I have a solid understanding of Agile, MVC Design Pattern, REST Architecture, Relational, and NoSQL databases. 
-          I have a strong understanding of Data Structures and Algorithms and am proficient in developing Object-Oriented Applications. 
-          I have hands-on experience in developing scalable cross-browser web and mobile applications and mobile-first designing. 
-          I am a well-organized person with good interpersonal skills and high work ethic.
+          I am a .NET Full Stack Developer based in Kansas, USA with 4+ years of experience in building scalable, high-performance applications across healthcare, finance, and cloud-based solutions. 
+          I specialize in ASP.NET Core, microservices, cloud technologies (Azure, AWS), event-driven systems (RabbitMQ, Kafka), and more. 
+          I hold a Master’s degree in Computer Science from the University of Central Missouri. I am skilled in designing RESTful APIs, optimizing real-time applications, and implementing CI/CD pipelines using Azure DevOps, Docker, and Kubernetes. 
+          I also have a strong understanding of HIPAA/FHIR compliance for healthcare systems. 
+          I am passionate about clean code and solving complex problems through technology. 
         </p>
       </div>
     </div>
@@ -116,10 +110,9 @@
           <div class="col-lg-9">
             <h3 class="mb-1">Master of Science in Computer Science</h3>
           </div>
-          <div class="col-lg-3 text-right"><span>DEC 2018</span></div>
+          <div class="col-lg-3 text-right"><span>MAY 2025</span></div>
         </div>
-        <span>University of North Carolina at Charlotte</span>
-        <h5 class="text-color">GPA: 4.0/4.0</h5>
+        <span>University of Central Missouri</span>
       </div>
     </div>
     <br>
@@ -127,464 +120,259 @@
       <div class="col-lg-10 offset-lg-2">
         <div class="row">
           <div class="col-lg-9">
-            <h3 class="mb-1">Bachelor of Engineering in Computer Engineering</h3>
+            <h3 class="mb-1">Bachelor of Engineering in Computer Science</h3>
           </div>
-          <div class="col-lg-3 text-right"><span>MAY 2016</span></div>
+          <div class="col-lg-3 text-right"><span>MAY 2020</span></div>
         </div>
-        <span>Thakur College of Engineering and Technology</span>
-        <h5 class="text-color">GPA: 9.02/10.0</h5>
-      </div>
-    </div>
-  </section>
-  <section id="experience" class="container">
-    <div class="row">
-      <h2 class="col-lg-12"><a href="#experience" class="section-text-style"> Experience </a></h2>
-    </div>
-    <br>
-    <div class="row">
-      <div class="col-lg-1"><i class="fas fa-briefcase fa-6x"></i></div>
-      <div class="col-lg-10 offset-lg-1">
-        <div class="row">
-          <div class="col-lg-9">
-            <h3 class="mb-1">Optum Digital formerly Rally Health</h3>
-          </div>
-          <div class="col-lg-3 text-right"><span>MARCH 2019 - PRESENT</span></div>
-        </div>
-        <address class="mb-style">Senior Software Engineer - San Francisco, CA, USA</address>
-        <h5 class="main-color">Responsibilities</h5>
-        <ul>
-          <li>Led the development of a responsive, multilingual, & accessible MVP, deploying it for nearly <span class="text-color">17M users.</span></li>
-          <li>Effectively managed the deployment of new product features and the maintenance of existing services.</li>
-          <li>Contributed to engineering processes and standards improvements to enhance efficiency and product quality.</li>
-          <li>Developed backend services, models, schema and writing API for client to consume using Scala and NoSQL Database.</span></li>
-          <li>Writing unit and automation tests for both UI & backend services using Jest, Webdriver IO, Robot and ScalaTes.</li>
-          <li>Adopted Agile with pair programming & code reviews to ensure all accepted code is consistent, efficient & reusable.</li>
-          <li>Provided vital production support, using Splunk & DataDog for monitoring, improving system stability & performance.</li>
-        </ul>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-9">
-            <h3 class="mb-1">Advising Systems - UNC Charlotte</h3>
-          </div>
-          <div class="col-lg-3 text-right"><span>DEC 2017 - DEC 2018</span></div>
-        </div>
-        <address class="mb-style">Graduate Assistant - Charlotte, NC, USA</address>
-        <h5 class="main-color">Responsibilities</h5>
-        <ul>
-          <li><span class="text-color">Analyzed</span> undergraduate student data to predict outcomes for national
-            clinical research trial called IPASS.</li>
-          <li>Building Success Markers and integration with academic early alert system using <span
-              class="text-color">CONNECT and Microsoft Excel.</span> </li>
-          <li>Extrapolated data to <span class="text-color">come up with strategies</span> for advising systems.</li>
-          <li>Restructured the course templates for undergraduate students using <span class="text-color">JavaScript,
-              Excel and Adobe Acrobat.</span></li>
-          <li>Worked on building standalone application using <span class="text-color"> JavaMail API </span> to ease the
-            process of Mail Merge.</li>
-          <li>Contributed in <span class="text-color">writing script</span> to aid in integration of advising systems
-            using <span class="text-color"> Java, XPath & Selenium WebDriver.</span></li>
-        </ul>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-9">
-            <h3 class="mb-1">Vistaar Digital Communications</h3>
-          </div>
-          <div class="col-lg-3 text-right"><span>JAN 2017 - JULY 2017</span></div>
-        </div>
-        <address class="mb-style">Software Engineer - Mumbai, India</address>
-        <h5 class="main-color">Responsibilities</h5>
-        <ul>
-          <li>Successfully developed AirWayBill for <i><a href="https://expressrates.in">expressrates</a></i> to save
-            time & paper cost by storing in the relational database using <span class="text-color"> MySQL</span>.</li>
-          <li> Built the functionality to print bill & generate barcode for Cargos using <span class="text-color">PHP &
-              FPDF</span> and feature for user to access & email bills.</li>
-          <li> Worked in a <span class="text-color"> collaborative team of developers and testers </span> and closely
-            with business leaders, product owners, scrum masters & graphic designers by following <span
-              class="text-color"> Agile </span> and utilized <span class="text-color">Asana as Project Management Tool
-              and GitHub version control.</span></li>
-          <li>Redesigned User Interface for <i><a href="https://discoverbeauty.com">discoverbeauty</a></i> to improve UX
-            to both end users & the doctors using <span class="text-color">CSS3 and jQuery</span>.</li>
-          <li>Key player for developing mobile-first responsive web-design for <i><a href="https://thegreatnext.com">The
-                Great Next</a></i> using <span class="text-color">CSS3, jQuery and Photoshop document.</span>.</li>
-          <li> Migration of <span class="text-color">Bootstrap 2 to Bootstrap 3</span>, and successfully achieved
-            challenging task of implementing multiple <span class="text-color">jQuery</span> versions.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-  <section id="skills" class="container">
-    <div class="row">
-      <h2 class="col-lg-12"><a href="#skills" class="section-text-style"> Skills </a></h2>
-    </div>
-    <br>
-    <div class="row">
-      <div class="col-lg-1"><i class="fas fa-flag fa-6x"></i></div>
-      <div class="col-lg-10 offset-lg-1">
-        <br>
-        <div class="row">
-          <div class="col-md-3">
-            <ul class="skills">
-              <li class="skills-header">Web Technologies & Design Styles</li>
-              <li class="skills-header-items">SCSS</li>
-              <li class="skills-header-items">HTML5</li>
-              <li class="skills-header-items">CSS3</li>
-              <li class="skills-header-items">Bootstrap</li>
-              <li class="skills-header-items">REST</li>
-              <li class="skills-header-items">MVC</li>
-            </ul>
-          </div>
-          <div class="col-md-3">
-            <ul class="skills">
-              <li class="skills-header"> Programming & <br>Database Technologies</li>
-              <li class="skills-header-items">JavaScript (ES5, ES6)</li>
-              <li class="skills-header-items">Java</li>
-              <li class="skills-header-items">C</li>
-              <li class="skills-header-items">MongoDB</li>
-              <li class="skills-header-items">MySQL</li>
-              <li class="skills-header-items">Firebase</li>
-            </ul>
-          </div>
-          <div class="col-md-3">
-            <ul class="skills">
-              <li class="skills-header">JavaScript Frameworks & <br> Libraries</li>
-              <li class="skills-header-items">Node/Express/Mongoose</li>
-              <li class="skills-header-items">React / Redux</li>
-              <li class="skills-header-items">jQuery - AJAX</li>
-              <li class="skills-header-items">AngularJS</li>
-              <li class="skills-header-items">Embedded JS (EJS)</li>
-              <li class="skills-header-items">Webpack, Babel, Mocha</li>
-            </ul>
-          </div>
-          <div class="col-md-3">
-            <ul class="skills">
-              <li class="skills-header">Tools & IDE</li>
-              <li class="skills-header-items">Git/Bitbucket/Jenkins</li>
-              <li class="skills-header-items">Sublime Text 3</li>
-              <li class="skills-header-items">Visual Studio Code</li>
-              <li class="skills-header-items">Android Studio</li>
-              <li class="skills-header-items">Heroku</li>
-              <li class="skills-header-items">Vercel</li>
-              <li class="skills-header-items">Tableau</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-  </section>
-  <section id="projects" class="container">
-    <div class="row">
-      <h2 class="col-lg-12"><a href="#projects" class="section-text-style"> Projects </a></h2>
-    </div>
-    <br>
-    <div class="row project-row-mb">
-      <div class="col-lg-1"><i class="fas fa-laptop-code fa-6x"></i></div>
-      <div class="col-lg-10 offset-lg-1">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Pachkhān and Choghadiya Timings </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Developed and launched a responsive, cross-browser MVP web app attracting over <span class="text-color"> 10,300 users </span> since June 2023.</li>
-                  <li>Used <span class="text-color"> React and Material UI </span> to build an interactive user interface, and integrated weather API for real-time data.</li>
-                  <li>User can tap their interested beer and add to draft menu managed using <span
-                      class="text-color">React State</span></li>
-                  <li>Hosted on <span class="text-color">Vercel</span> and Integrated with <span class="text-color">GA4</span> for user insights to drive data-driven improvements.</li>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> React, Material UI, SCSS, <a href="https://weatherapi.com/" target="_blank">WeatherAPI</a>, Vercel, Google Analytics 4 (GA4) </span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://github.com/darshakmehta/sunrise-sunset" target="_blank"> (Private) GitHub Code
-                </a>
-                <span class=""> | </span>
-                <a href="https://jain-pachkhan-timings.vercel.app/" target="_blank"> Vercel (live) </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span>JUNE 2023</span></div>
-          <div class="col-lg-10">
-            <h3 class="mb-1"> BruTap </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li><span class="text-color">create-react-app</span> for structuring the client web app and <span
-                      class="text-color">React Components </span>with use of axios to handle browser and Node.js.</li>
-                  <li><span class="text-color"> React Table </span> to render beer dataset and <span
-                      class="text-color">React Router </span> for managing the navigation.</li>
-                  <li>User can tap their interested beer and add to draft menu managed using <span
-                      class="text-color">React State</span></li>
-                  <li>Express.js to build API using <span class="text-color"> HTTP methods </span> with Mongoose Models
-                    & deployed app on <span class="text-color"> Heroku with mLab D/B service.</span>)</li>
-                  <li> Validation of HTML5 Pages using <a
-                      href="http://html5.validator.nu/">http://html5.validator.nu/</a>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> MongoDB - Mongoose.js ODM,
-                  Express, React, Node.js (MERN), CSS3, Herkou, mLab </span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://github.com/darshakmehta/brutap" target="_blank"> GitHub Code
-                </a>
-                <span class=""> | </span>
-                <a href="https://brutap-client.herokuapp.com/" target="_blank"> Heroku (live) </a>
-                <span class=""> | </span>
-                <a href="https://github.com/darshakmehta/brutap#user-stories" target="_blank"> User Stories </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> FALL 2018 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Swapping Auction </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li><span class="text-color">Followed MVC Design Pattern</span> to structure the web application and
-                    <span class="text-color">EJS Template Engine </span>with use of partials.
-                  </li>
-                  <li>Maintained the session of the web application and validation using <span
-                      class="text-color">Express</span></li>
-                  <li>Persistent Data Storage using NoSQL database structure (<span class="text-color">MongoDB with help
-                      of Mongoose ODM</span>)</li>
-                  <li><span class="text-color">Cross browser compatible</span> with Google Chrome and Firefox.</li>
-                  <li> Validation of HTML5 Pages using <a
-                      href="http://html5.validator.nu/">http://html5.validator.nu/</a>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> HTML5, CSS3, EJS, Node.js,
-                  Express.js, MongoDB - Mongoose.js ODM</span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://github.com/darshakmehta/Swapping-Auction" target="_blank"> GitHub
-                  Code </a>
-                <span class=""> | </span>
-                <a href="https://github.com/darshakmehta/Swapping-Auction/blob/master/Requirements%20and%20Design%20Document.pdf"
-                  target="_blank"> Requirement and Design Document </a>
-                <span class=""> | </span>
-                <a href="https://github.com/darshakmehta/Swapping-Auction/blob/master/User%20Manual.pdf"
-                  target="_blank"> User Manual </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> FALL 2018 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Indecision App </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Designed <span class="text-color">reusable User Interface Stateful and Stateless Functional
-                      Components</span> using JavaScript Classes and React.</li>
-                  <!-- <li>Functionalities using <span class="text-color">Lifecycle methods</span> when componentDidUpdate, componentDidUpdate, componentWillUnmount.</li> -->
-                  <li>
-                    <span class="text-color">Block element Modifier</span> methodology to style components in the
-                    front-end using SCSS and used Webpack build tool.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> React, SCSS, Webpack, ES6,
-                  JSX</span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://git.io/fpc3G" target="_blank"> GitHub Code </a></div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> SUMMER 2018 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Social Networking App </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Developed Mobile Application integrated with <span class="text-color">Firebase Database</span>
-                    which include features such as sending friend request, sharing statuses, adding and removing friends
-                    and post using <span class="text-color">Fragments and Tab Activity.</span></li>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> Android, Firebase </span>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://git.io/fpc3P" target="_blank"> GitHub Code </a></div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> FALL 2017 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> THEMOVIEDB </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Mobile App to search Movies using <span class="text-color">REST API, JSON Parsing and
-                      Recyclerview</span> to list the results & Picasso for rendering images.
-                  </li>
-                  <li>
-                    <span class="text-color">Wrote Java Custom comparators </span>to sort and search Movies from the
-                    searched results to increase usability.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> Android, THEMOVIEDB Library
-                </span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://git.io/fpc39" target="_blank"> GitHub Code </a></div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> FALL 2017 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Light Rail Management System </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Implemented SQL database for Charlotte City, with complete process of <span
-                      class="text-color">booking tickets, checking schedules & routes.</span></li>
-                  <li>Designed <span class="text-color">Stored Procedures, Stored Functions and Triggers</span> to
-                    automate the process of ticket validation.
-                  </li>
-                  <li>Experienced in all Project phases using <span class="text-color"> Agile Principles</span>,
-                    Outlined and Prioritized <span class="text-color">User Stories.</span></li>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> MySQL</span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12">
-                <a href="https://github.com/darshakmehta/Light-Rail-Management-System" target="_blank"> GitHub Code
-                </a>
-                <span class=""> | </span>
-                <a href="https://git.io/fpcAO" target="_blank"> Project Documentation </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> FALL 2017 </span></div>
-        </div>
-      </div>
-    </div>
-    <div class="row project-row-mb">
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-lg-10">
-            <h3 class="mb-1"> Amelioration of K-Means Algorithm </h3>
-            <div class="row">
-              <div class="col-lg-12">
-                <ul class="project-role-mb">
-                  <li>Enhanced K-means data Clustering Algorithm to <span class="text-color">filter the products based
-                      on rating</span> by calculating initial centroids.</li>
-                  <li><span class="text-color">Reduced Number of Iterations</span> which aid in <span
-                      class="text-color">improving the time complexity</span> to filter products based on rating.</li>
-                  <li><span class="text-color">Better quality clusters</span> were obtained after each iteration.</li>
-                </ul>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> Java, Node.js, MongoDB
-                  (Mongoose), Express.js, AngularJS</span></div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12"><a href="https://goo.gl/tNh8da" target="_blank"> Video </a><span> | </span><a
-                  href="https://github.com/darshakmehta/K-Means-Data-Clustering" target="_blank"> GitHub Code
-                </a><span> | </span><a
-                  href="https://docs.google.com/document/d/1WuLRIOCZDL0pvpX7le6NOd0GIIfeiyiPAXhk6TQXJhU/edit"
-                  target="_blank"> Research Paper </a></div>
-            </div>
-          </div>
-          <div class="col-lg-2 text-right"><span> SPRING 2016 </span></div>
-        </div>
-      </div>
-    </div>
-    <br>
-  </section>
-  <br>
-  <section id="contact" class="container">
-    <div class="row">
-      <h2 class="col-lg-12"><a href="#contact" class="section-text-style"> Contact </a></h2>
-    </div>
-    <br>
-    <div class="row">
-      <!-- <div class="col-lg-1"><i class="fas fa-user fa-6x"></i></div> -->
-      <div class="col-lg-10 offset-lg-2">
-        <div class="row">
-          <div class="col-4 col-lg-2"><a href="https://www.facebook.com/darshak.mehta.9" class="social-link"><i
-                class="fab fa-facebook fa-6x fb-color"></i></a></div>
-          <div class="col-4 col-lg-2"><a href="https://twitter.com/TweakGuy" class="social-link"><i
-                class="fab fa-twitter fa-6x twitter-color"></i></a></div>
-          <div class="col-4 col-lg-2"><a href="https://linkedin.com/in/darshakmehta/" class="social-link"><i
-                class="fab fa-linkedin fa-6x linkedin-color"></i></a></div>
-          <div class="col-4 col-lg-2"><a href="https://github.com/darshakmehta" class="social-link"><i
-                class="fab fa-github fa-6x github-color"></i></a></div>
-          <div class="col-4 col-lg-2"><a href="https://www.quora.com/profile/Darshak-Mehta-3" class="social-link"><i
-                class="fab fa-quora fa-6x quora-color"></i></a></div>
-          <div class="col-4 col-lg-2"><a href="https://stackoverflow.com/users/4489066/tech-boy" class="social-link"><i
-                class="fab fa-stack-overflow fa-6x stack-overflow-color"></i></a></div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <br>
-  <section id="footer" class="container-fluid">
-    <div class="row bg-dark footer-container">
-      <div class="col-lg-12 text-center">
-        <h3 class="text-center footer-color"> Developed by Darshak Mehta</h3>
+        <span>Dr. Ambedkar Institute of Technology</span>
       </div>
     </div>
   </section>
 
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+ <section id="experience" class="container">
+    <div class="row">
+        <h2 class="col-lg-12"><a href="#experience" class="section-text-style"> Experience </a></h2>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-1"><i class="fas fa-briefcase fa-6x"></i></div>
+        <div class="col-lg-10 offset-lg-1">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h3 class="mb-1">Virtusa</h3>
+                </div>
+                <div class="col-lg-3 text-right"><span>Dec 2021 – Aug 2023</span></div>
+            </div>
+            <address class="mb-style">.NET Full Stack Developer - Healthcare, Microservices, Azure, AWS</address>
+            <h5 class="main-color">Responsibilities</h5>
+            <ul>
+                <li>Led the development of scalable, high-performance microservices-based applications for healthcare systems.</li>
+                <li>Designed and implemented RESTful APIs, integrated with Azure and AWS cloud services.</li>
+                <li>Optimized database management and performance using SQL Server and NoSQL technologies.</li>
+                <li>Developed CI/CD pipelines using Azure DevOps, Docker, and Kubernetes for cloud deployment.</li>
+                <li>Ensured system security and compliance with HIPAA standards and implemented JWT authentication for secure communication.</li>
+                <li>Collaborated with cross-functional teams using Agile methodologies, improving efficiency and quality.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-10 offset-lg-2">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h3 class="mb-1">CGI Information Systems</h3>
+                </div>
+                <div class="col-lg-3 text-right"><span>Oct 2020 – Dec 2021</span></div>
+            </div>
+            <address class="mb-style">.NET Developer - Financial Dashboard, Real-time Data</address>
+            <h5 class="main-color">Responsibilities</h5>
+            <ul>
+                <li>Developed real-time financial dashboards using .NET, ensuring high availability and low-latency data retrieval.</li>
+                <li>Worked with SQL Server and NoSQL databases to manage financial data for client reporting systems.</li>
+                <li>Integrated third-party payment gateways for secure financial transactions and reports.</li>
+                <li>Worked in Agile teams to ensure on-time delivery and continuous product improvements.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-10 offset-lg-2">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h3 class="mb-1">Sonata Software</h3>
+                </div>
+                <div class="col-lg-3 text-right"><span>Jan 2019 – Oct 2020</span></div>
+            </div>
+            <address class="mb-style">.NET Developer - Financial Dashboard, NoSQL, Reporting</address>
+            <h5 class="main-color">Responsibilities</h5>
+            <ul>
+                <li>Developed and optimized reporting features for financial dashboards, working with both SQL Server and MongoDB.</li>
+                <li>Worked on building scalable solutions for real-time data access and processing.</li>
+                <li>Implemented automated testing strategies to ensure product stability and reliability.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="skills" class="container">
+    <div class="row">
+        <h2 class="col-lg-12"><a href="#skills" class="section-text-style"> Skills </a></h2>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-1"><i class="fas fa-flag fa-6x"></i></div>
+        <div class="col-lg-10 offset-lg-1">
+            <br>
+            <div class="row">
+                <div class="col-md-3">
+                    <ul class="skills">
+                        <li class="skills-header">Web Technologies & Design Styles</li>
+                        <li class="skills-header-items">SCSS</li>
+                        <li class="skills-header-items">HTML5</li>
+                        <li class="skills-header-items">CSS3</li>
+                        <li class="skills-header-items">Bootstrap</li>
+                        <li class="skills-header-items">REST</li>
+                        <li class="skills-header-items">MVC</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="skills">
+                        <li class="skills-header">Programming & Database Technologies</li>
+                        <li class="skills-header-items">C#</li>
+                        <li class="skills-header-items">JavaScript (ES6)</li>
+                        <li class="skills-header-items">SQL Server</li>
+                        <li class="skills-header-items">NoSQL (MongoDB)</li>
+                        <li class="skills-header-items">T-SQL</li>
+                        <li class="skills-header-items">PL-SQL</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="skills">
+                        <li class="skills-header">JavaScript Frameworks & Libraries</li>
+                        <li class="skills-header-items">Angular</li>
+                        <li class="skills-header-items">React</li>
+                        <li class="skills-header-items">Node.js</li>
+                        <li class="skills-header-items">Express.js</li>
+                        <li class="skills-header-items">Redux</li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="skills">
+                        <li class="skills-header">Tools & IDE</li>
+                        <li class="skills-header-items">Git/Bitbucket</li>
+                        <li class="skills-header-items">Visual Studio</li>
+                        <li class="skills-header-items">Azure DevOps</li>
+                        <li class="skills-header-items">Docker</li>
+                        <li class="skills-header-items">Kubernetes</li>
+                        <li class="skills-header-items">Jenkins</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="projects" class="container">
+    <div class="row">
+        <h2 class="col-lg-12"><a href="#projects" class="section-text-style"> Projects </a></h2>
+    </div>
+    <br>
+    <div class="row project-row-mb">
+        <div class="col-lg-1"><i class="fas fa-laptop-code fa-6x"></i></div>
+        <div class="col-lg-10 offset-lg-1">
+            <div class="row">
+                <div class="col-lg-10">
+                    <h3 class="mb-1">Housing Management System (HMS)</h3>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul class="project-role-mb">
+                                <li>Developed a multi-service architecture to handle apartment listings, user authentication, and payments.</li>
+                                <li>Implemented JWT-based authentication for secure user login and role management.</li>
+                                <li>Designed RESTful APIs to allow users to filter apartments based on amenities and lease preferences.</li>
+                                <li>Built the front end with Angular for seamless user interaction and responsive design.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> .NET Core Web API, SQL Server, Angular, JWT Authentication</span></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12"><a href="https://github.com/srinchow1998/Sunshine-Apartments" target="_blank">GitHub Code</a></div>
+                    </div>
+                </div>
+                <div class="col-lg-2 text-right"><span></span></div>
+            </div>
+        </div>
+    </div>
+</section>
+<br/>
+
+  <div class="row project-row-mb">
+    <div class="col-lg-10 offset-lg-2">
+        <div class="row">
+            <div class="col-lg-10">
+                <h3 class="mb-1">Muzix Web App </h3>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="project-role-mb">
+                            <li>Developed <span class="text-color">Sangeetic Muzix Web Application</span> with <span class="text-color">.NET Core Web API</span>, Built a music streaming app using the Napster API for song details and streaming. Implemented a personalized recommendation service based on user preferences and listening history. Developed with .NET Core for backend and Angular for the frontend.</li>
+                            <li>Implemented <span class="text-color">JWT Authentication</span> for secure user logins and role-based access.</li>
+                            <li>Utilized <span class="text-color">SQL Server</span> for the backend database, ensuring high availability and performance.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> .NET Core, SQL Server, JWT Authentication, Web API</span></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12"><a href="https://github.com/srinchow1998/Sunshine-Apartments" target="_blank"> GitHub Code </a></div>
+                </div>
+            </div>
+            <div class="col-lg-2 text-right"><span></span></div>
+        </div>
+    </div>
+</div>
+<br/>
+
+<div class="row project-row-mb">
+    <div class="col-lg-10 offset-lg-2">
+        <div class="row">
+            <div class="col-lg-10">
+                <h3 class="mb-1"> AcePerHead - Online Betting Application </h3>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="project-role-mb">
+                            <li>Developed the backend for an <span class="text-color">online betting application</span> using <span class="text-color">.NET Core</span> and integrated third-party APIs for payment processing.</li>
+                            <li>Implemented <span class="text-color">real-time features</span> using <span class="text-color">SignalR</span> for live betting updates and notifications.</li>
+                            <li>Utilized <span class="text-color">Knockout.js</span> for the frontend to create a dynamic and responsive user interface.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12"><span class="main-color"><strong>Technologies:</strong> .NET Core, SignalR, Knockout.js, Payment Gateway Integration</span></div>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-2 text-right"><span> </span></div>
+        </div>
+    </div>
+
+<br>
+
+<section id="contact" class="container">
+    <div class="row">
+        <h2 class="col-lg-12"><a href="#contact" class="section-text-style"> Contact </a></h2>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-10 offset-lg-2">
+            <div class="row">
+                <div class="col-4 col-lg-2"><a href="https://www.linkedin.com/in/srinivas-musinuri-b0144b191/" class="social-link"><i class="fab fa-linkedin fa-6x linkedin-color"></i></a></div>
+                <div class="col-4 col-lg-2"><a href="https://github.com/srinchow1998" class="social-link"><i class="fab fa-github fa-6x github-color"></i></a></div>
+                <div class="col-4 col-lg-2"><a href="mailto:srinivasmusinuri@gmail..com" class="social-link"><i class="fas fa-envelope fa-6x email-color"></i></a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<br>
+
+<section id="footer" class="container-fluid">
+    <div class="row bg-dark footer-container">
+        <div class="col-lg-12 text-center">
+            <h3 class="text-center footer-color"> Developed by Srinivas Musinuri</h3>
+        </div>
+    </div>
+</section>
+
+<!-- Optional JavaScript -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
     integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
     crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
 </body>
-
 </html>
+
