@@ -18,7 +18,7 @@
 
   <!-- Custom meta tags -->
   <meta property='og:title' content='Srinivas Musinuri' />
-  <meta property="og:image" content="resources/srinivasmusinuri_image.jpeg" />
+  <meta property="og:image" content="https://github.com/srinchow1998/srinchow1998.github.io/blob/main/resources/srinivasmusinuri_image.JPEG" />
   <meta property='og:description'
     content='Hello, there! I am a .NET Full Stack Developer with 4+ years of experience building scalable applications for healthcare, finance, and cloud-based solutions. I specialize in ASP.NET Core, microservices, cloud technologies, and more.' />
 
