@@ -17,8 +17,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Custom meta tags -->
-  <meta property='og:title' content='Srinivas Musinuri' />
-  <meta property="og:image" content="https://srinchow1998.github.io/resources/images/srinivasmusinuri_image.JPEG" />
+
   <meta property='og:description'
     content='Hello, there! I am a .NET Full Stack Developer with 4+ years of experience building scalable applications for healthcare, finance, and cloud-based solutions. I specialize in ASP.NET Core, microservices, cloud technologies, and more.' />
 
