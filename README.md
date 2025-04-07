@@ -176,7 +176,7 @@
                 <div class="col-lg-9">
                     <h3 class="mb-1">Sonata Software</h3>
                 </div>
-                <div class="col-lg-3 text-right"><span>Jan 2019 – Oct 2020</span></div>
+                <div class="col-lg-3 text-right"><span>Aug 2019 – Oct 2020</span></div>
             </div>
             <address class="mb-style">.NET Developer - Financial Dashboard, NoSQL, Reporting</address>
             <h5 class="main-color">Responsibilities</h5>
