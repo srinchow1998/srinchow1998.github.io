@@ -140,14 +140,14 @@
                 </div>
                 <div class="col-lg-3 text-right"><span>Dec 2021 – Aug 2023</span></div>
             </div>
-            <address class="mb-style">.NET Full Stack Developer - Healthcare, Microservices, Azure, AWS</address>
+            <address class="mb-style">.NET Full Stack Developer - Microservices, Azure, AWS</address>
             <h5 class="main-color">Responsibilities</h5>
             <ul>
-                <li>Led the development of scalable, high-performance microservices-based applications for healthcare systems.</li>
+                <li>Led the development of scalable, high-performance microservices-based applications for cloud native systems.</li>
                 <li>Designed and implemented RESTful APIs, integrated with Azure and AWS cloud services.</li>
                 <li>Optimized database management and performance using SQL Server and NoSQL technologies.</li>
                 <li>Developed CI/CD pipelines using Azure DevOps, Docker, and Kubernetes for cloud deployment.</li>
-                <li>Ensured system security and compliance with HIPAA standards and implemented JWT authentication for secure communication.</li>
+                <li>Ensured system security and implemented JWT authentication for secure communication.</li>
                 <li>Collaborated with cross-functional teams using Agile methodologies, improving efficiency and quality.</li>
             </ul>
         </div>
